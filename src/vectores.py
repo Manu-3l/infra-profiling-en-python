@@ -3,6 +3,9 @@ NumPy desde Python, recorriendo listas de Python, y con NumPy vectorizado."""
 import numpy as np
 
 
+
+# a
+
 def producto_punto_indexado(a, b):
     """Recorre dos arreglos de NumPy por índice desde un ciclo de Python.
     Es la forma más lenta de las tres: cada a[i] saca un escalar del arreglo
